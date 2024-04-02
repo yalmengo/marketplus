@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508128803737",
+    "project_id": "marketplus-fca5e",
+    "storage_bucket": "marketplus-fca5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508128803737:android:1b2d0e80cf4b3031987108",
+        "android_client_info": {
+          "package_name": "com.yun.marketplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508128803737-u84fv02abs5irovjog0ugm6d5rc27t5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pbhKs1KfYfQj9aJmt_RAE3UTUj5uCvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508128803737-u84fv02abs5irovjog0ugm6d5rc27t5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
